@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2GKpO5JbywOo4QIu5JctVbwBIoPyNBRUxZb5asODgLU4YX7dZnx5+L4BLcxLJB5N/dMGfnI/xROeuR/gJOZKw==",
+  "success": true,
+  "projectFilePath": "/Users/mehmetgulenc/CampProject/nArchitecture/src/demoProjects/templateProject/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/mehmetgulenc/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mehmetgulenc/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/mehmetgulenc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
